@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/ayushthakur/Desktop/Rapid innovation/Blockchain-tasks/donation-blockchain/contracts/Donation.sol": {
+      "lastModificationDate": 1664952525188,
+      "contentHash": "9574f2b598c5472796fd9413b54b0bf0",
+      "sourceName": "contracts/Donation.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Donation"
+      ]
+    }
+  }
+}
